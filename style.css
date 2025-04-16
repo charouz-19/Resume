@@ -3,9 +3,9 @@ header {
   
 }
 body {
-  background: url(wp4181170_2.jpg) no-repeat center left; 
+  background: url(wp4181170_2.jpg)  top left; 
 
-  min-width: 1200px;
+  min-width: 200px;
   background-color:black;
   text-align:center;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
@@ -14,7 +14,7 @@ body {
 }
 
 .container {
-  max-width: 570px;
+  max-width: 400px;
 
 
 }
