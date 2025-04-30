@@ -19,6 +19,11 @@ body {
 
 }
 
+.container2 {
+  max-width: 400px;
+  text-align: left;
+}
+
 .noncontainer {
   max-width: 1000px;
 }
